@@ -1,1 +1,2 @@
 # FoodZo-WebApp
+This project involves building a complete restaurant website using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It features seamless frontend-backend integration, a secure authentication system with Firebase and JWT token access, and an admin panel for effective management. Additional functionalities include payment processing for online transactions, image hosting for menu items, and an online food ordering system, along with comprehensive order management capabilities, resulting in a fully functional platform ready for deployment.
