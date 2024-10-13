@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund&display=swap');
+
+body{
+  
+  font-family: "Playwrite DE Grund", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.section-container{
+  @apply max-w-screen-2xl container mx-auto xl:px-24 px-40;
+}
+
+header{
+  z-index:10001 !important
+}
+
+.subtitle{
+  @apply text-pink text-sm uppercase tracking-wide font-medium
+}
+
+.title{
+  @apply text-4xl text-maroon md:text-5xl font-bold my-2 md:leading-snug leading-snug
+}
+
+.heartStar{
+  border-radius:0px 28px 0px 28px;
+}
